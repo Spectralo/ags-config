@@ -1,0 +1,111 @@
+$theme: 'dark';
+$image: url('/home/spectralo/Downloads/image-mesh-gradient.png');
+
+
+$background: #10140f;
+
+$error: #ffb4ab;
+
+$error_container: #93000a;
+
+$inverse_on_surface: #2d322b;
+
+$inverse_primary: #3c6839;
+
+$inverse_surface: #e0e4da;
+
+$on_background: #e0e4da;
+
+$on_error: #690005;
+
+$on_error_container: #ffdad6;
+
+$on_primary: #0c390e;
+
+$on_primary_container: #bdf0b3;
+
+$on_primary_fixed: #002203;
+
+$on_primary_fixed_variant: #255023;
+
+$on_secondary: #253423;
+
+$on_secondary_container: #d6e8ce;
+
+$on_secondary_fixed: #111f0f;
+
+$on_secondary_fixed_variant: #3b4b38;
+
+$on_surface: #e0e4da;
+
+$on_surface_variant: #c2c8bd;
+
+$on_tertiary: #00363b;
+
+$on_tertiary_container: #bcebf0;
+
+$on_tertiary_fixed: #002022;
+
+$on_tertiary_fixed_variant: #1e4d52;
+
+$outline: #8c9388;
+
+$outline_variant: #424940;
+
+$primary: #a2d399;
+
+$primary_container: #255023;
+
+$primary_fixed: #bdf0b3;
+
+$primary_fixed_dim: #a2d399;
+
+$scrim: #000000;
+
+$secondary: #baccb3;
+
+$secondary_container: #3b4b38;
+
+$secondary_fixed: #d6e8ce;
+
+$secondary_fixed_dim: #baccb3;
+
+$shadow: #000000;
+
+$source_color: #475943;
+
+$surface: #10140f;
+
+$surface_bright: #363a34;
+
+$surface_container: #1d211b;
+
+$surface_container_high: #272b25;
+
+$surface_container_highest: #323630;
+
+$surface_container_low: #191d17;
+
+$surface_container_lowest: #0b0f0a;
+
+$surface_dim: #10140f;
+
+$surface_tint: #a2d399;
+
+$surface_variant: #424940;
+
+$tertiary: #a0cfd4;
+
+$tertiary_container: #1e4d52;
+
+$tertiary_fixed: #bcebf0;
+
+$tertiary_fixed_dim: #a0cfd4;
+
+
+
+.material_icon,
+.material_icon * {
+    all: unset;
+    font-family: "Material Symbols Outlined", "Material Symbols Sharp";
+}
